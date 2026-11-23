@@ -1,0 +1,6 @@
+{
+  "name": "DealerOS Reconciliation Console",
+  "description": "Multi-tenant ledger reconciliation system comparing System A and System B records with strict organization isolation, exact decimal arithmetic, and zero-loss CSV ingestion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
